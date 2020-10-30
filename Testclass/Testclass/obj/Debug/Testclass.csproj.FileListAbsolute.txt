@@ -1,0 +1,10 @@
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\bin\Debug\Testclass.exe.config
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\bin\Debug\Testclass.exe
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\bin\Debug\Testclass.pdb
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.csprojAssemblyReference.cache
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.Form1.resources
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.Properties.Resources.resources
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.csproj.GenerateResource.cache
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.csproj.CoreCompileInputs.cache
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.exe
+C:\Users\Julio Ibarra\source\repos\Testclass\Testclass\obj\Debug\Testclass.pdb
